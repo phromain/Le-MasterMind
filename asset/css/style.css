@@ -1,0 +1,63 @@
+body {
+    background-image: url('../img/red-fox.jpg'); 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    background-position: center;
+    height: 1000px
+
+}
+
+
+.rond {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: black;
+}
+
+
+.rondnoir {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: black;
+}
+
+
+.rondblanc {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+}
+
+.rondvide {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    border: 2px solid #fefffc;
+}
+
+
+.colorbrown{
+    background-color:rgba(139, 69, 19, 0.567);
+}
+
+.borderRoundUp{
+    border-radius: 50px 50px 0px 0px;
+}
+
+.borderRoundDown{
+    border-radius: 0px 0px 50px 50px;
+}
+
+.separateur{
+    height: 25px;
+    background-color:rgba(197, 89, 11, 0.713);
+}
+
+.btn-colorperso{
+background-color:rgba(139, 69, 19, 0.567)!important;
+}
